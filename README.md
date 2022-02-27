@@ -22,7 +22,7 @@ from shell: ./IDIT
 ## WINDOWS:
 from powershell/cmd: python3 IDIT
 or
-double run the .exe file
+double click the .exe file
 
 # EXTRA FILES
 Your tasks will be stored in a text file called "tt.txt" in the same directory as IDIT.
